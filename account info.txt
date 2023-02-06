@@ -1,0 +1,25 @@
+Designee:
+user: accountant
+pass: 1234
+
+user: librarian
+pass: 1234
+
+user: dean
+pass: 1234
+
+user: registrar
+pass:1234
+
+*****************
+*****************
+faculty:
+user: 1
+pass: 1234
+
+*****************
+*****************
+admin:
+user: admin
+pass: 1234
+

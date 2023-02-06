@@ -1,0 +1,11 @@
+faculty:
+user: 1
+pass: 1234
+
+admin:
+user: admin
+pass: 1234
+
+designee:
+user: accountant
+pass: 1234
